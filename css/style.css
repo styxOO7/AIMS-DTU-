@@ -144,8 +144,11 @@ section .title::after {
     transition: color 0.3s ease;
 }
 
-.navbar .menu li a:hover {
+.navbar .menu li  a:hover {
     color: var(--mainColor);
+}
+.navbar .menu li .active{
+    border-bottom: 3px solid var(--mainColor);
 }
 
 .navbar.sticky .menu li a:hover {

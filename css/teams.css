@@ -16,6 +16,23 @@
     text-decoration: none;
 }
 
+.insta {
+    font-size: 30px;
+}
+.insta:hover {
+    color: gray;
+}
+li {
+    display: inline;
+}
+
+.linkd {
+    font-size: 30px;
+}
+.linkd:hover{
+    color: gray;
+}
+
 html {
     scroll-behavior: smooth;
 }

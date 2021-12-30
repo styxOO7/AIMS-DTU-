@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Artificial Intelligence", "Machine learning", "Neural Networking", "Python"],
+        strings: ["Artificial Intelligence", "Machine learning", "Deep Neural Networks", "Python"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true

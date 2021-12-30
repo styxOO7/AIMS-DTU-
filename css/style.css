@@ -382,7 +382,8 @@ video {
 .gallery .serv-content .card .text {
     font-size: 25px;
     font-weight: 500;
-    margin: 10px 0 7px 0;
+    margin: 10px 0 4px 0;
+    /* margin-bottom: 2px; */
 }
 
 /* skills section styling */
